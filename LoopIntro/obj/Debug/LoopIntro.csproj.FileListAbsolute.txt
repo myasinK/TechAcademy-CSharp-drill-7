@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\bin\Debug\LoopIntro.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\bin\Debug\LoopIntro.exe
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\bin\Debug\LoopIntro.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\obj\Debug\LoopIntro.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\obj\Debug\LoopIntro.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\obj\Debug\LoopIntro.exe
+C:\Users\Yasin\TechAcademy\vs-tour\LoopIntro\LoopIntro\obj\Debug\LoopIntro.pdb
